@@ -22,10 +22,11 @@ import { HysComponent } from './components/hys/hys.component';
     BannerComponent,
     AcercaDeComponent,
     ExperienciaComponent,
-    EducacionComponent
+    EducacionComponent,
+    HysComponent
   ],
   imports: [
-    BrowserModule,
+    BrowserModule, 
     AppRoutingModule,
     NgCircleProgressModule.forRoot({})
   ],
