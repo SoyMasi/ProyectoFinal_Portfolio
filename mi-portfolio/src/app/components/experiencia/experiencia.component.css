@@ -1,5 +1,6 @@
 .row{
-    padding: 20px;
+    padding: 100px 0px 50px;
+    box-shadow: 2px -2px  red ;
 }
 div{
     background-color: rgb(12, 12, 12);

@@ -30,6 +30,7 @@
     border: 2px solid #d90429;
     background: #d90429;
     text-align: center;
+    margin-bottom: 50px;
 }
 .button:hover{
     background: aliceblue;
