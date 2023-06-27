@@ -32,7 +32,7 @@ import { HttpClient, HttpClientModule } from '@angular/common/http';
     BrowserModule, 
     AppRoutingModule,
     NgCircleProgressModule.forRoot({}),
-    HttpClient
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
